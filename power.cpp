@@ -22,4 +22,3 @@ int32_t main()
     cout<<power(2,3,1e9+7)<<endl;
     return 0;
 }
-// (2**3)%1e9+7
