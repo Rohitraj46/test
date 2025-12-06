@@ -1,0 +1,2 @@
+def palindrom(str):
+    pass
